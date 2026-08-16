@@ -1,0 +1,5 @@
+# Local spreadsheet and operating-system artifacts
+*.xlsx
+~$*
+.DS_Store
+Thumbs.db
